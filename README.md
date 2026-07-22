@@ -20,79 +20,92 @@
 - 🔗 Exploring the world of **Blockchain** technology
 - 💻 Learning & building on the **Development** side as well
 - 🌱 Currently improving my skills in: **Python, Bash, SOAR, SIEM tools**
-- ⚡ Fun fact: I automate boring tasks so I can focus on the fun ones 😄
+- ⚡ Fun fact: I automate boring tasks so I can focus on the fun (and dangerous) ones 😄
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛡️ Security Operations Command Center
 
-### 🔵 SOC / Blue Team Environment
-
-> Tools I work with for security monitoring, alert triage and incident investigation.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stellar%20Cyber%20XDR-542A7A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdStrike%20Falcon-E01F27?style=for-the-badge&logo=crowdstrike&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SIEM%20Monitoring-1679A7?style=flat-square&logo=elasticstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/XDR%20Alert%20Triage-7B1FA2?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDR%20Monitoring-E01F27?style=flat-square&logo=crowdstrike&logoColor=white" />
-  <img src="https://img.shields.io/badge/Incident%20Response-00A86B?style=flat-square&logoColor=white" />
-</p>
-
----
-
-### 🟣 Purple Team / Cybersecurity
-
-> Exploring offensive techniques to improve detection and defensive capabilities.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge&logo=mitre&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</p>
-
----
-
-### ⚙️ Security Automation & Development
-
-> Building scripts, integrations and automation workflows for security operations.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%20Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white" />
-</p>
-
----
-
-### 🔗 Blockchain Development & Web3 Security
-
-> Exploring smart contract development, decentralized applications and blockchain security.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/dApp%20Development-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3%20Security-7B1FA2?style=flat-square&logo=ethereum&logoColor=white" />
-</p>
+<table border="0">
+  <tr>
+    <!-- SECTION 1: SOC / BLUE TEAM -->
+    <td valign="top" width="50%">
+      <h3>🔵 SOC / Blue Team</h3>
+      <b>Monitoring • Detection • Incident Response</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stellar_Cyber_XDR-1A1A2E?style=for-the-badge&logo=shield&logoColor=00FF9D" />
+      <img src="https://img.shields.io/badge/CrowdStrike_Falcon-E01F27?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=linux" width="40" />
+      <br/><br/>
+      <pre>
+<code>[+] SIEM Alert Triage
+[+] XDR / EDR Monitoring
+[+] Log Correlation
+[+] Threat Hunting
+[+] Incident Investigation</code>
+      </pre>
+    </td>
+    <!-- SECTION 2: PURPLE TEAM -->
+    <td valign="top" width="50%">
+      <h3>🟣 Purple Team</h3>
+      <b>Attack Simulation • Detection Improvement</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge&logo=mitre&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=white" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=linux,docker" width="40" />
+      <br/><br/>
+      <pre>
+<code>[+] Adversary TTP Mapping
+[+] Detection Gap Analysis
+[+] Threat Emulation Labs
+[+] Defensive Validation
+[+] Blue ↔ Red Collaboration</code>
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <!-- SECTION 3: SECURITY AUTOMATION -->
+    <td valign="top" width="50%">
+      <h3>⚙️ Security Automation</h3>
+      <b>Scripts • APIs • Workflow Automation</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,docker,git" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/API_Integration-00FF9D?style=flat-square&logo=api&logoColor=black" />
+      <img src="https://img.shields.io/badge/SOAR_Workflows-1A1A2E?style=flat-square&logo=workflow&logoColor=white" />
+      <br/><br/>
+      <pre>
+<code>[+] Security Automation Scripts
+[+] Alert Enrichment
+[+] API Integrations
+[+] IOC / Threat Intel Workflows
+[+] Repetitive Task Automation</code>
+      </pre>
+    </td>
+    <!-- SECTION 4: BLOCKCHAIN & WEB3 SECURITY -->
+    <td valign="top" width="50%">
+      <h3>🔗 Blockchain & Web3 Security</h3>
+      <b>Smart Contracts • dApps • Security Research</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=solidity,js,nodejs" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Web3_Security-00FF9D?style=flat-square&logo=ethereum&logoColor=black" />
+      <img src="https://img.shields.io/badge/Smart_Contracts-1A1A2E?style=flat-square&logo=solidity&logoColor=white" />
+      <br/><br/>
+      <pre>
+<code>[+] Solidity Development
+[+] Smart Contract Security
+[+] dApp Development
+[+] Web3 Fundamentals
+[+] Blockchain Research</code>
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -113,21 +126,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" width="90%" />
-</p>
-
----
-
-### 🎯 What I'm Focused On
-
-```text
-🔵 Blue Team   → Daily SOC monitoring, alert triage and incident response
-🟣 Purple Team → Improving detection through attack-and-defense knowledge
-⚙️  Automation  → Building scripts and workflows for security operations
-🔗 Blockchain  → Learning smart contract development and Web3 security
-```
-
----
-
-<p align="center">
-  <i>"Detect. Defend. Automate. Improve."</i> 🛡️
 </p>
