@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/STATUS-DEFENDING%20THE%20NETWORK-red?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
 </p>
 
-### 🖥️ root@security:~$ cat about_me.txt
+
 
 - 🛡️ Working as a **SOC Analyst** (Blue Team)
 - 🎯 Passionate about **Red & Purple Teaming**
