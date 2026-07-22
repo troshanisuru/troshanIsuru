@@ -1,176 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9d&height=220&section=header&text=Hi%20I'm%20[Your%20Name]&fontSize=45&fontColor=00FF9D&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20|%20Purple%20Team%20|%20Automation%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2b0f3f,100:00ff9d&height=210&section=header&text=Hi%2C%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Purple%20Team%20Enthusiast%20%7C%20Security%20Automation&descAlignY=55&descSize=17" width="100%" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=%3E+whoami+%3D%3D+SOC+Analyst;%3E+passion+%3D%3D+Red%2FPurple+Teaming;%3E+hobby+%3D%3D+Automating+Everything;%3E+side_quest+%3D%3D+Blockchain+%26+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF9D&center=true&vCenter=true&width=750&lines=Monitoring+Threats+%7C+Building+Automation;SOC+Analyst+%E2%80%A2+Purple+Team+Enthusiast;Exploring+Blockchain+Development+%26+Security" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE%20VIEWS&color=00FF9D&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/badge/STATUS-DEFENDING%20THE%20NETWORK-red?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE%20VIEWS&color=00FF9D&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-SOC%20ANALYST-7B1FA2?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ---
 
-### 🖥️ root@security:~$ cat about_me.txt
+## 👨‍💻 About Me
 
-- 🛡️ Working as a **SOC Analyst** (Blue Team)
-- 🎯 Passionate about **Red & Purple Teaming**
-- ⚙️ Love building **Automation tools/scripts**
-- 🔗 Exploring **Blockchain Development**
-- 💻 Also into general **Software Development**
-- 📡 Currently monitoring networks 24/7
+```text
+🛡️  SOC Analyst focused on security monitoring, alert triage and incident investigation.
+🟣  Interested in Purple Team operations, detection improvement and threat hunting.
+⚙️  Building automation scripts to improve security workflows and reduce repetitive tasks.
+🔗  Exploring Blockchain development, Web3 and smart contract security.
+```
 
 ---
 
-## 🛡️ Security Operations Command Center
+## 🔵 SOC / Blue Team Environment
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      
-### 🔵 SOC / Blue Team
-**Monitoring • Detection • Incident Response**
+> Tools currently used for monitoring, detection and investigation.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stellar%20Cyber%20XDR-5B2C83?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdStrike%20Falcon-E01F27?style=flat-square&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stellar%20Cyber%20XDR-4B1D73?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike%20Falcon-E01F27?style=for-the-badge&logo=crowdstrike&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="42" alt="Linux"/>
+  <img src="https://img.shields.io/badge/SIEM%20Monitoring-1E88E5?style=flat-square&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/XDR%20Alert%20Triage-6A1B9A?style=flat-square&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDR%20Monitoring-E01F27?style=flat-square&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident%20Investigation-00A86B?style=flat-square&logo=opsgenie&logoColor=white" />
 </p>
 
-```text
-[+] SIEM Alert Triage
-[+] XDR / EDR Monitoring
-[+] Log Correlation
-[+] Threat Hunting
-[+] Incident Investigation
-```
+---
 
-</td>
-<td width="50%" valign="top">
+## 🟣 Purple Team / Offensive Security
 
-### 🟣 Purple Team
-**Attack Simulation • Detection Improvement**
+> Learning adversary techniques to improve detection, visibility and defensive readiness.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square&logo=mitre&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" height="42" alt="Linux and Bash"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-7B1FA2?style=flat-square&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Detection%20Engineering-C8102E?style=flat-square&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/TTP%20Mapping-111111?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Attack%20Simulation-FF4500?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
-```text
-[+] Adversary TTP Mapping
-[+] Detection Gap Analysis
-[+] Threat Emulation Labs
-[+] Defensive Validation
-[+] Blue ↔ Red Collaboration
-```
+---
 
-</td>
-  </tr>
+## ⚙️ Security Automation & Programming
 
-  <tr>
-    <td width="50%" valign="top">
-
-### ⚙️ Security Automation
-**Scripts • APIs • Workflow Automation**
+> Developing scripts, integrations and workflows for security operations.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,docker,git&theme=dark" height="42" alt="Automation tools"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API%20Integration-00FF9D?style=flat-square&logo=fastapi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SOAR%20Workflows-0D1117?style=flat-square&logo=githubactions&logoColor=00FF9D" />
+  <img src="https://img.shields.io/badge/Security%20Automation-00C853?style=flat-square&logo=automattic&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Integrations-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alert%20Enrichment-1E88E5?style=flat-square&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workflow%20Automation-FF6F00?style=flat-square&logo=zapier&logoColor=white" />
 </p>
 
-```text
-[+] Security Automation Scripts
-[+] Alert Enrichment
-[+] API Integrations
-[+] IOC / Threat Intel Workflows
-[+] Repetitive Task Automation
-```
+---
 
-</td>
-<td width="50%" valign="top">
+## 🔗 Blockchain Development
 
-### 🔗 Blockchain & Web3 Security
-**Smart Contracts • dApps • Security Research**
+> Exploring decentralized applications, Web3 technologies and smart contract development.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,js,nodejs&theme=dark" height="42" alt="Blockchain tools"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web3%20Security-00FF9D?style=flat-square&logo=ethereum&logoColor=black" />
   <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/dApp%20Development-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3%20Development-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
 </p>
-
-```text
-[+] Solidity Development
-[+] Smart Contract Security
-[+] dApp Development
-[+] Web3 Fundamentals
-[+] Blockchain Research
-```
-
-</td>
-  </tr>
-</table>
 
 ---
 
-<div align="center">
+## 🔐 Blockchain / Web3 Security
 
-### `> CURRENT_MISSION`
-
-| 🛡️ DEFEND | ⚙️ AUTOMATE | 🟣 IMPROVE | 🔗 EXPLORE |
-|:---:|:---:|:---:|:---:|
-| SOC Operations | Security Workflows | Purple Teaming | Web3 Security |
-
-</div>
-
-
-## 📊 GitHub Analytics
+> Interested in secure smart contract design, vulnerability research and Web3 security practices.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://img.shields.io/badge/Smart%20Contract%20Security-7B1FA2?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure%20Development-00A86B?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3%20Security-00C853?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" width="55%" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Research-C8102E?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure%20Smart%20Contracts-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain%20Research-627EEA?style=flat-square&logo=ethereum&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00FF9D&line=7B1FA2&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </p>
 
-
-
-## 📫 Let's Connect
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/yourprofile"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <i>“Detect. Defend. Automate. Improve.”</i>
 </p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,100:0f2027&height=100&section=footer" width="100%"/>
-
-</div>
