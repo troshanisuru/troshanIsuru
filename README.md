@@ -26,76 +26,121 @@
 
 ---
 
-## 🔵 SOC / Blue Team — Daily Driver Tools
-<table align="center">
+## 🛡️ Security Operations Command Center
+
+<table>
   <tr>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/fortinet/EE3124" width="45" height="45"/><br/><sub><b>FortiSIEM</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/crowdstrike/E01F27" width="45" height="45"/><br/><sub><b>CrowdStrike EDR</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/splunk/000000" width="45" height="45"/><br/><sub><b>Splunk</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" height="45"/><br/><sub><b>Wireshark</b></sub></td>
+    <td width="50%" valign="top">
+      
+### 🔵 SOC / Blue Team
+**Monitoring • Detection • Incident Response**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stellar%20Cyber%20XDR-5B2C83?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike%20Falcon-E01F27?style=flat-square&logo=crowdstrike&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="42" alt="Linux"/>
+</p>
+
+```text
+[+] SIEM Alert Triage
+[+] XDR / EDR Monitoring
+[+] Log Correlation
+[+] Threat Hunting
+[+] Incident Investigation
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🟣 Purple Team
+**Attack Simulation • Detection Improvement**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" height="42" alt="Linux and Bash"/>
+</p>
+
+```text
+[+] Adversary TTP Mapping
+[+] Detection Gap Analysis
+[+] Threat Emulation Labs
+[+] Defensive Validation
+[+] Blue ↔ Red Collaboration
+```
+
+</td>
   </tr>
+
   <tr>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="45" height="45"/><br/><sub><b>MS Sentinel</b></sub></td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/StellaCyber_XDR-1A1A2E?style=flat&logo=shield&logoColor=00FF9D" width="90" height="45"/><br/><sub><b>StellaCyber XDR</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/elastic/005571" width="45" height="45"/><br/><sub><b>ELK Stack</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/sysdig/007BFF" width="45" height="45"/><br/><sub><b>Threat Hunting</b></sub></td>
+    <td width="50%" valign="top">
+
+### ⚙️ Security Automation
+**Scripts • APIs • Workflow Automation**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,docker,git&theme=dark" height="42" alt="Automation tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20Integration-00FF9D?style=flat-square&logo=fastapi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SOAR%20Workflows-0D1117?style=flat-square&logo=githubactions&logoColor=00FF9D" />
+</p>
+
+```text
+[+] Security Automation Scripts
+[+] Alert Enrichment
+[+] API Integrations
+[+] IOC / Threat Intel Workflows
+[+] Repetitive Task Automation
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Blockchain & Web3 Security
+**Smart Contracts • dApps • Security Research**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,js,nodejs&theme=dark" height="42" alt="Blockchain tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web3%20Security-00FF9D?style=flat-square&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=flat-square&logo=solidity&logoColor=white" />
+</p>
+
+```text
+[+] Solidity Development
+[+] Smart Contract Security
+[+] dApp Development
+[+] Web3 Fundamentals
+[+] Blockchain Research
+```
+
+</td>
   </tr>
 </table>
 
 ---
 
-## 🔴 Red Team & 🟣 Purple Team — Offensive Side
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/nmap/000000" width="45" height="45"/><br/><sub><b>Nmap</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/metasploit/2596CD" width="45" height="45"/><br/><sub><b>Metasploit</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/portswigger/FF6633" width="45" height="45"/><br/><sub><b>Burp Suite</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" height="45"/><br/><sub><b>Kali Linux</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/tenable/00C176" width="45" height="45"/><br/><sub><b>Nessus</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/mitre/C8102E" width="45" height="45"/><br/><sub><b>MITRE ATT&CK</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/bloodhound/8B0000" width="45" height="45"/><br/><sub><b>BloodHound</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/ghidra/000000" width="45" height="45"/><br/><sub><b>Ghidra</b></sub></td>
-  </tr>
-</table>
+<div align="center">
 
----
+### `> CURRENT_MISSION`
 
-## ⚙️ Automation & Programming
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45"/><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="45" height="45"/><br/><sub><b>Bash</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/powershell/5391FE" width="45" height="45"/><br/><sub><b>PowerShell</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/ansible/EE0000" width="45" height="45"/><br/><sub><b>Ansible</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/docker/2496ED" width="45" height="45"/><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45"/><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45"/><br/><sub><b>Linux</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45" height="45"/><br/><sub><b>VS Code</b></sub></td>
-  </tr>
-</table>
+| 🛡️ DEFEND | ⚙️ AUTOMATE | 🟣 IMPROVE | 🔗 EXPLORE |
+|:---:|:---:|:---:|:---:|
+| SOC Operations | Security Workflows | Purple Teaming | Web3 Security |
 
----
-
-## 🔗 Blockchain — Development & Security
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/solidity/363636" width="45" height="45"/><br/><sub><b>Solidity</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="45" height="45"/><br/><sub><b>Ethereum</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/web3dotjs/F16822" width="45" height="45"/><br/><sub><b>Web3.js</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/hardhat/FFF100" width="45" height="45"/><br/><sub><b>Hardhat</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/metamask/F6851B" width="45" height="45"/><br/><sub><b>MetaMask</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/truffle/5E464D" width="45" height="45"/><br/><sub><b>Truffle</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/chainlink/375BD2" width="45" height="45"/><br/><sub><b>Chainlink</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/openzeppelin/4E5BB3" width="45" height="45"/><br/><sub><b>OpenZeppelin</b></sub></td>
-  </tr>
-</table>
-
+</div>
 
 
 ## 📊 GitHub Analytics
