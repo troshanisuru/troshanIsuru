@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9d&height=220&section=header&text=Hi%20I'm%20[Your%20Name]&fontSize=45&fontColor=00FF9D&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20|%20Purple%20Team%20|%20Automation%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9d&height=220&section=header&text=Hi%20I'm%20Troshan&fontSize=45&fontColor=00FF9D&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20|%20Purple%20Team%20|%20Automation%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE%20VIEWS&color=00FF9D&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/badge/STATUS-DEFENDING%20THE%20NETWORK-red?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
 </p>
-
----
 
 ### 🖥️ root@security:~$ cat about_me.txt
 
