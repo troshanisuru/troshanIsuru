@@ -1,1 +1,87 @@
-<h1 align="center">Hi 👋, I'm Troshan Isuru</h1>2<h3 align="center">Cyber Security Enthusiast | Digital Forensics Analyst | Security Researcher</h3>3 4<p align="center">5  me-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cyber+Security+%26+Digital+Forensics;Ethical+Hacking+%7C+SOC+Analysis;DFIR+%7C+Threat+Hunting;Always+Learning+New+Technologies" />6</p>7 8---9 10<img align="right" alt="Cyber Security" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3AxMWtmNmQwc2NpM2t5c2VzMDNjb2Q2N3ljdHE0bWEzOG1wdmh3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">11 12ssional13 14💻 Interested in:15- Penetration Testing16- Digital Forensics17- Threat Hunting18- Incident Response19- Malware Analysis20 21🎓 Studying & Researching Advanced Security Technologies22 23🌱 Currently Learning:24- DFIR25- Cloud Security26- SIEM Engineering27- Threat Intelligence28 29---30 31## 🛠 Tech Stack32 33### Security34 35![Kali](https://img.shields.io/badge/ux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white36![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)37!Burp Suite38https://img.shields.io/badge/Nmap-00457C?style=for-the-badge39 40### Languages41 42![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColorsh](https://img.shields.io/badge/Bashstyle=for-the-badge&logo=gnu-bash&logoColor=white43 44### Operating Systems45 46![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&=black47![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=48## 📊 GitHub Stats49 50<p align="center">51  =true&theme=tokyonight"/>52  ://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>53</p>54 55---56 57## 🔥 GitHub Streak58 59<p align="center">60  olab.com?user=USERNAME&theme=tokyonight"/>61</p>62 63---64 65## 🏆 GitHub Trophies66 67<p align="center">68-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&row=1&column=7"/>69</p>70 71---72 73## 🌐 Connect With Me74 75<p align="left">76https://linkedin.com/in/YOUR-LINKEDIN77 78yourmail@example.com79-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>80</a>81</p>82 83---84 85<p align="center">86⚡ "Security is a process, not a product."87</p>
+<h1 align="center">Hi 👋, I'm Troshan Isuru</h1>
+<h3 align="center">Cyber Security Enthusiast | Digital Forensics Analyst | Security Researcher</h3>
+
+<p align="center">
+  me-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cyber+Security+%26+Digital+Forensics;Ethical+Hacking+%7C+SOC+Analysis;DFIR+%7C+Threat+Hunting;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+<img align="right" alt="Cyber Security" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3AxMWtmNmQwc2NpM2t5c2VzMDNjb2Q2N3ljdHE0bWEzOG1wdmh3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+ssional
+
+💻 Interested in:
+- Penetration Testing
+- Digital Forensics
+- Threat Hunting
+- Incident Response
+- Malware Analysis
+
+🎓 Studying & Researching Advanced Security Technologies
+
+🌱 Currently Learning:
+- DFIR
+- Cloud Security
+- SIEM Engineering
+- Threat Intelligence
+
+---
+
+## 🛠 Tech Stack
+
+### Security
+
+![Kali](https://img.shields.io/badge/ux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+!Burp Suite
+https://img.shields.io/badge/Nmap-00457C?style=for-the-badge
+
+### Languages
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColorsh](https://img.shields.io/badge/Bashstyle=for-the-badge&logo=gnu-bash&logoColor=white
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&=black
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=
+## 📊 GitHub Stats
+
+<p align="center">
+  =true&theme=tokyonight"/>
+  ://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  olab.com?user=USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+https://linkedin.com/in/YOUR-LINKEDIN
+
+yourmail@example.com
+-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⚡ "Security is a process, not a product."
+</p>
