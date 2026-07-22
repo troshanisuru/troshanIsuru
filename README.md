@@ -23,29 +23,6 @@
 - 📡 Currently monitoring networks 24/7
 
 ---
-<table width="100%" border="0">
-<tr>
-<td width="68%" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9d&height=220&section=header&text=Hi%20I'm%20Troshan&fontSize=45&fontColor=00FF9D&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20|%20Purple%20Team%20|%20Automation%20Builder&descAlignY=55&descSize=18" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=%3E+whoami+%3D%3D+SOC+Analyst;%3E+passion+%3D%3D+Red%2FPurple+Teaming;%3E+hobby+%3D%3D+Automating+Everything;%3E+side_quest+%3D%3D+Blockchain+%26+Dev" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE%20VIEWS&color=00FF9D&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/badge/STATUS-DEFENDING%20THE%20NETWORK-red?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
-</p>
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tech Stack & Tools
 
